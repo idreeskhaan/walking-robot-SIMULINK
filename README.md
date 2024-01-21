@@ -11,3 +11,15 @@
 
 ![Alogorithm Flowchart](/algorithm.PNG)
 
+### Model Foot Trajectory
+![Foot Trajectory](/foot-trajectory.PNG)
+
+### ZMP model using TMIPM
+![Torso trajectory model using TMIPM](/zmp-TMIPM.PNG)
+
+### ZMP model using MMIPM
+![Torso trajectory model using MMIPM](/zmp-MMIPM.PNG)
+
+
+
+
