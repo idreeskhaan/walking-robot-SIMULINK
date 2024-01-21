@@ -9,3 +9,5 @@
 <li>Conmpute new z3 based on the new trajectoires</li>
 <li>Compare with previous and keep iterating until convergence</li>
 
+![./algorithm.png]
+
