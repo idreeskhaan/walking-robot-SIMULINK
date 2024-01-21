@@ -1,1 +1,11 @@
 # SIMULINK model for a walking robot with ZMP based trajectory solver for torso
+
+## Mathematical Modelling
+<br>
+<li> Plan the foot trajectory</li>
+<li> Calculate z3 using TMIPM (Two Mass Inverted Pendulum Model)</li>
+<li> Get joint angles using inverse kinematics solution</li>
+<li>Compute the new trajectories for m4, m5 and m6 using Forward Kinematics</li>
+<li>Conmpute new z3 based on the new trajectoires</li>
+<li>Compare with previous and keep iterating until convergence</li>
+
