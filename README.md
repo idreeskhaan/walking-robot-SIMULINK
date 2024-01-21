@@ -28,4 +28,4 @@
 
 <br>
 <br>
-For more info, read this Report [report](/report.pdf)
+For more info, read report.pdf.
