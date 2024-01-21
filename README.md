@@ -26,4 +26,6 @@
 ### Simulated Torso Trajectory
 ![Torso Trajectory](/torso-traj.PNG)
 
-
+<br>
+<br>
+For more info, read this Report [report](/report.pdf)
