@@ -9,5 +9,5 @@
 <li>Conmpute new z3 based on the new trajectoires</li>
 <li>Compare with previous and keep iterating until convergence</li>
 
-![Alogirthm Flowchart](./algorithm.png)
+![Alogorithm Flowchart](/algorithm.PNG)
 
