@@ -20,6 +20,10 @@
 ### ZMP model using MMIPM
 ![Torso trajectory model using MMIPM](/zmp-MMIPM.PNG)
 
+### SIMULINK model
+![Simulink Model](/simulink-model.PNG)
 
+### Simulated Torso Trajectory
+![Torso Trajectory](/torso-traj.PNG)
 
 
